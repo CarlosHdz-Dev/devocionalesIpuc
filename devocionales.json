@@ -1,29 +1,34 @@
 {
-    "letras": {
-      "adoracion": {
-        "A el Alto y Sublime": {
+  "categorias": [
+    {
+      "nombre": "Adoracion",
+      "canciones": [
+        {
           "titulo": "A el Alto y Sublime",
           "tono": "Fa Mayor",
-          "letra": "A el alto y sublime\nQue habita la eternidad\nY su nombre es el Santo de Israel\nAl que habita en las alturas\nY en la Santidad\nY con el quebrantado y humilde de espíritu\nPara hacer vivir el espíritu humilde\nY para vivificar\nEl corazón quebrantado\nSea la gloria\nHonor\nAlabanza y poder\nAl que reina\nPor los siglos\nY su nombre Santo es"
+          "letra": "A el alto y sublime\n..."
         },
-        "Jesus Tu Eres": {
+        {
           "titulo": "Jesus Tu Eres",
           "tono": "Fa Mayor",
-          "letra": "//Jesús tú eres la presencia\nMás importante en este lugar//\n\n//Rey de reyes\nSeñor de Señores\nAquel que mi vida cambió//."
+          "letra": "//Jesús tú eres la presencia\n..."
         },
-        "Tuya es mi Alabanza": {
+        {
           "titulo": "Tuya es mi Alabanza",
           "tono": "Fa Mayor",
-          "letra": "Tuya es mi alabanza, tuya es mi canción\nRecibe la ofrenda de un pueblo que te adora\nRecibe la ofrenda de un pueblo con amor.\n\nRecíbela Señor, porque solo tuya es\nLa alabanza de tu pueblo con amor\nRecíbela Señor, porque solo tuya es\nLa alabanza de tu pueblo con amor."
+          "letra": "Tuya es mi alabanza, tuya es mi canción\n..."
         }
-      },
-      "categoria2": {
-        "cancion3": {
+      ]
+    },
+    {
+      "nombre": "categoria2",
+      "canciones": [
+        {
           "titulo": "Canción 3",
           "tono": "C",
           "letra": "Letra de la canción 3..."
         }
-      }
+      ]
     }
-  }
-  
+  ]
+}
